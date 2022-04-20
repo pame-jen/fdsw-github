@@ -2,6 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Navbar Section */
+.bg-color-blue{
+  background-color: #7092be;
+}
+
 /* Hero Section */
 
 #Hero-Section {
